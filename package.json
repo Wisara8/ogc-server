@@ -1,0 +1,25 @@
+{
+  "name": "ogc_server",
+  "version": "1.0.0",
+  "description": "server",
+  "main": "index.js",
+  "scripts": {
+    "test": "server_test_command"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wisara8/ogc-server.git"
+  },
+  "keywords": [
+    "offgrid"
+  ],
+  "author": "sam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wisara8/ogc-server/issues"
+  },
+  "homepage": "https://github.com/Wisara8/ogc-server#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
